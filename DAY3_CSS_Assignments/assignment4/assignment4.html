@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecureBank</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .balance-highlight{
+            background-color: cadetblue;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div style="background:#ff4d4d;color:white;text-align:center;padding:10px;">
+        Your KYC is pending. Please update immediately.
+    </div>
+    <div class="dashboard">
+        <aside class="sidebar">
+            <h2 style="color: white;">SecureBank</h2>
+            <ul>
+                <li>Dashboard</li>
+                <li>Accounts</li>
+                <li>Transfer</li>
+                <li>Settings</li>
+            </ul>
+        </aside>
+            <div class="main">
+                <header>
+                    <h1>Welcome, Lakshmi Pathi</h1>
+                </header>
+                <section class="cards">
+                    <div class="card balance-highlight">
+                        <h3>Account Balance</h3>
+                        <p>₹85,000</p>
+                    </div>
+                    <div class="card">
+                        <h3>Savings</h3>
+                        <p>₹40,000</p>
+                    </div>
+                    <div class="card">
+                        <h3>Current</h3>
+                        <p>₹45,000</p>
+                    </div>
+                </section>
+                <section class="transactions">
+                    <h2>Recent Transactions</h2>
+                    <table>
+                        <tr>
+                            <th>Date</th>
+                            <th>Description</th>
+                            <th>Type</th>
+                            <th>Amount</th>
+                        </tr>
+                        <tr>
+                            <td>12 Feb</td>
+                            <td>Amazon</td>
+                            <td class="debit">Debit</td>
+                            <td>-₹2,000</td>
+                        </tr>
+                        <tr>
+                            <td>11 Feb</td>
+                            <td>Salary</td>
+                            <td class="credit">Credit</td>
+                            <td>+₹50,000</td>
+                        </tr>
+                        <tr>
+                            <td>10 Feb</td>
+                            <td>Electricity Bill</td>
+                            <td class="debit">Debit</td>
+                            <td>-₹3,000</td>
+                        </tr>
+                    </table>
+                </section>
+                <section class="login">
+                    <h2>Quick Login</h2>
+                    <form>
+                        <input type="text" placeholder="User ID"><br><br>
+                        <input type="password" placeholder="Password"><br><br>
+                        <button>Login</button>
+                    </form>
+                </section>
+                <footer>
+                    <p>&copy; Copyright 2026 SecureBank | Developed by MLP</p>
+                </footer>
+            </div>
+    </div>
+</body>
+</html>

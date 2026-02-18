@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+h1, h2, h3 {
+    color: #2c3e50;
+}
+.dashboard {
+    display: flex;
+}
+.sidebar {
+    width: 20%;
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+}
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+.main {
+    width: 80%;
+}
+header {
+    background: #ecf0f1;
+    padding: 15px;
+}
+.cards {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+.card {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background: #f9f9f9;
+}
+.transactions {
+    padding: 20px;
+}
+.transactions table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.transactions th, .transactions td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+tr:hover {
+    background: #f1f1f1;
+}
+.debit {
+    color: red;
+}
+.credit {
+    color: green;
+}
+.login {
+    padding: 20px;
+}
+input[type="password"] {
+    border: 2px solid #2c3e50;
+}
+button {
+    background: #2c3e50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+button:active {
+    background: green;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #ecf0f1;
+}
