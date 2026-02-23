@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let pur_amt=555;
+        if (pur_amt>=5000) {
+            disc_amt=(0.2*pur_amt)
+            document.writeln(`Discount Amount =  ${disc_amt}, `)
+            document.writeln(`Final Payable Amount = ${pur_amt-disc_amt}`)
+        } else if (pur_amt>=3000) {
+            disc_amt=(0.1*pur_amt)
+            document.writeln(`Discount Amount =  ${disc_amt}, `)
+            document.writeln(`Final Payable Amount = ${pur_amt-disc_amt}`)
+        } else if (pur_amt<3000) {
+            document.writeln(`Discount Amount =  No Discount, `)
+            document.writeln(`Final Payable Amount = ${pur_amt}`)
+        }
+    </script>
+</body>
+</html>
