@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Display User Information</h1>
+    <p id="name"></p>
+    <p id="age"></p>
+    <p id="city"></p>
+    <button id="btn">Display</button>
+
+    <script>
+        const user = {
+            'name': "Lucky",
+            'age': 21,
+            'city': "Hyderabad"
+        }
+
+        let btn=document.getElementById('btn');
+        let name=document.getElementById('name');
+        let age=document.getElementById('age');
+        let city=document.getElementById('city');
+
+        function displayUserInfo(user) {
+            name.textContent = "Name: "+ user.name;
+            age.textContent = "Age: "+ user.age;
+            city.textContent = "City: "+ user.city;
+        }
+
+        btn.addEventListener("click", function () {
+            displayUserInfo(user)
+        })
+    </script>
+</body>
+</html>
