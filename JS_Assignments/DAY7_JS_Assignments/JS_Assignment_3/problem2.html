@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" autocomplete="off">
+        
+            <legend>Registration Form</legend>
+            <label for="">Name</label>
+            <input type="text" onchange="ValidateName()" id="name"> <br>
+            <span id="nameMsg"></span> <br>
+            <label for="">Email</label>
+            <input type="text" onchange="ValidateEmail()" id="email"> <br>
+            <span id="EmailMsg"></span> <br>
+            <label for="">Age</label>
+            <input type="number" onchange="ValidateAge()" id="age"> <br>
+            <span id="AgeMsg"></span> <br>
+            <button id="btn" onclick="SaveData()" type="submit">Submit</button> <br>
+            <span id="finalMsg"></span>
+        
+    </form>
+
+    <script>
+        function ValidateName() {
+            let user_name=document.getElementById('name').value;
+
+            if (user_name == "") {
+                document.getElementById('nameMsg').innerText = "Name Cannot be Empty!";
+                document.getElementById('nameMsg').style.color = 'red';
+            }
+        }
+
+        function ValidateEmail() {
+            let user_email = document.getElementById('email').value;
+
+            if (!user_email.includes("@")) {
+                document.getElementById('EmailMsg').innerText = "Email must have '@'!";
+                document.getElementById('EmailMsg').style.color = 'red';
+            }
+        }
+
+        function ValidateAge() {
+            let user_age = document.getElementById('age').value;
+
+            if (user_age < 18) {
+                document.getElementById('AgeMsg').innerText = "Age must be greater than 18!";
+                document.getElementById('AgeMsg').style.color = 'red';
+            }
+        }
+
+        function SaveData() {
+
+            let name = document.getElementById("name").value;
+            let email = document.getElementById("email").value;
+            let age = document.getElementById("age").value;
+
+            if (name !== "" && email.includes("@") && age > 18) {
+
+                sessionStorage.setItem("userName", name);
+                sessionStorage.setItem("userEmail", email);
+                sessionStorage.setItem("userAge", age);
+
+                document.getElementById("finalMsg").innerHTML ="Registration Successful! (Data stored in sessionStorage)";
+                document.getElementById("finalMsg").style.color = 'green';
+            }
+            else {
+                document.getElementById("finalMsg").innerHTML = "Please enter valid details before submitting";
+                document.getElementById("finalMsg").style.color = 'red';
+            }
+        }
+        document.getElementById('btn').preventdefault()
+    </script>
+</body>
+</html>
