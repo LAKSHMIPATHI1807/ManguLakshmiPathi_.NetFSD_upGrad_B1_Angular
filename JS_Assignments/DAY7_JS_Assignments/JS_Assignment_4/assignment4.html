@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        let employees = [
+        { id:1, name:"Ravi", dept:"IT", salary:70000 },
+        { id:2, name:"Anita", dept:"HR", salary:50000 },
+        { id:3, name:"Karan", dept:"IT", salary:80000 },
+        { id:4, name:"Meena", dept:"Finance", salary:60000 }
+        ];
+
+        let totalSalary = employees.reduce((sum, emp) => sum + emp.salary, 0);
+        console.log("Total Salary Expense:", totalSalary);
+
+        let highestPaid = employees.reduce((max, emp) =>
+        emp.salary > max.salary ? emp : max);
+
+        let lowestPaid = employees.reduce((min, emp) =>
+        emp.salary < min.salary ? emp : min);
+
+        console.log("Highest Paid:", highestPaid);
+        console.log("Lowest Paid:", lowestPaid);
+
+        let updatedSalaries = employees.map(emp =>
+        emp.dept === "IT" ? { ...emp, salary: emp.salary * 1.15 }: emp);
+        console.log("After IT Hike:", updatedSalaries);
+
+        let groupedByDept = employees.reduce((acc, emp) => {
+        if (!acc[emp.dept]) acc[emp.dept] = [];
+        acc[emp.dept].push(emp);
+        return acc;
+        }, {});
+        console.log("Grouped by Department:", groupedByDept);
+
+        let deptAverage = Object.keys(groupedByDept).map(dept => {
+        let total = groupedByDept[dept].reduce((sum, emp) => sum + emp.salary, 0);
+        return {
+            dept,
+            average: total / groupedByDept[dept].length
+        };
+        });
+
+        console.log("Department Average:", deptAverage);
+
+        let sortedBySalary = [...employees].sort((a, b) => b.salary - a.salary);
+        console.log("Sorted by Salary:", sortedBySalary);
+
+        let afterTax = employees.map(emp => ({
+        ...emp,
+        salaryAfterTax: emp.salary * 0.9
+        }));
+        console.log("After Tax Deduction:", afterTax);
+
+        let avgSalary = totalSalary / employees.length;
+        let aboveAverage = employees.filter(emp => emp.salary > avgSalary);
+        console.log("Above Average Earners:", aboveAverage);
+
+        
+    </script>
+</body>
+</html>

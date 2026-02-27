@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        let cart = [
+            { id: 1, product: "Laptop", price: 60000, qty: 1 },
+            { id: 2, product: "Headphones", price: 2000, qty: 2 },
+            { id: 3, product: "Mouse", price: 800, qty: 1 }
+        ];
+
+        let totalCartValue = cart.reduce(
+        (total, item) => total + item.price * item.qty,0);
+        console.log("Total Cart Value:", totalCartValue);
+
+        let updatedCart = cart.map(item =>
+        item.id === 2 ? { ...item, qty: item.qty + 1 } : item);
+        console.log("Updated Quantity:", updatedCart);
+
+        let newCart = cart.filter(item => item.id !== 3);
+        console.log("After Removal:", newCart);
+
+        let discountedCart = cart.map(item =>
+        item.price > 10000 ? { ...item, price: item.price * 0.9 }: item);
+        console.log("Discounted Cart:", discountedCart);
+
+        let sortedCart = [...cart].sort((a, b) => (b.price * b.qty) - (a.price * a.qty));
+        console.log("Sorted Cart:", sortedCart);
+
+        let hasExpensiveProduct = cart.some(item => item.price > 50000);
+        console.log("Any product > 50000?", hasExpensiveProduct);
+
+        let allInStock = cart.every(item => item.qty > 0);
+        console.log("All items in stock?", allInStock);
+
+        let invoice = cart.map(item => ({
+        product: item.product,
+        unitPrice: item.price,
+        quantity: item.qty,
+        total: item.price * item.qty
+        }));
+        console.log("Invoice:", invoice);
+
+        let mostExpensive = cart.reduce((max, item) =>
+        item.price > max.price ? item : max);
+        console.log("Most Expensive Product:", mostExpensive);
+
+        let gst = totalCartValue * 0.18;
+        let finalAmount = totalCartValue + gst;
+        console.log("GST:", gst);
+        console.log("Final Amount:", finalAmount);
+    </script>
+</body>
+</html>
