@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Lab 2 - DOM Manipulation</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body { font-family: Arial; }
+        .box { margin: 10px 0; padding: 10px; border: 1px solid gray; }
+        li { margin: 5px 0; }
+        button { margin-left: 5px; }
+    </style>
+</head>
+<body>
+
+    <h2 id="title">Original Text</h2>
+
+    <div class="box" id="htmlBox"><b>Original HTML</b></div>
+
+    <input type="text" id="nameInput" placeholder="Enter name">
+
+    <br><br>
+
+    <button id="textBtn">Change Text</button>
+    <button id="htmlBtn">Change HTML</button>
+    <button id="valBtn">Set Input Value</button>
+    <button id="appendBtn">Append Element</button>
+    <button id="removeBtn">Remove Element</button>
+
+    <hr>
+
+    <!-- ✅ TODO LIST -->
+    <h2>Dynamic Todo List</h2>
+
+    <input type="text" id="taskInput" placeholder="Enter task">
+    <button id="addTask">Add Task</button>
+    <button id="clearAll">Clear All</button>
+
+    <ul id="taskList"></ul>
+
+<script>
+$(document).ready(function(){
+
+    // 1️⃣ Change text
+    $("#textBtn").click(function(){
+        $("#title").text("Text Changed using .text()");
+    });
+
+    // 2️⃣ Change HTML
+    $("#htmlBtn").click(function(){
+        $("#htmlBox").html("<i>HTML Changed using .html()</i>");
+    });
+
+    // 3️⃣ Change input value
+    $("#valBtn").click(function(){
+        $("#nameInput").val("Lakshmi");
+    });
+
+    // 4️⃣ Append new element
+    $("#appendBtn").click(function(){
+        $("#htmlBox").append("<p>New Paragraph Added</p>");
+    });
+
+    // 5️⃣ Remove element
+    $("#removeBtn").click(function(){
+        $("#htmlBox").remove();
+    });
+
+    // ✅ ADD TASK
+    $("#addTask").click(function(){
+
+        let task = $("#taskInput").val();
+
+        if(task !== ""){
+            $("#taskList").append(
+                `<li>
+                    ${task}
+                    <button class="delete">Delete</button>
+                 </li>`
+            );
+
+            $("#taskInput").val("");
+        }
+    });
+
+    // ✅ DELETE TASK (Event Delegation)
+    $("#taskList").on("click", ".delete", function(){
+        $(this).parent().remove();
+    });
+
+    // ✅ CLEAR ALL TASKS
+    $("#clearAll").click(function(){
+        $("#taskList").empty();
+    });
+
+});
+</script>
+
+</body>
+</html>

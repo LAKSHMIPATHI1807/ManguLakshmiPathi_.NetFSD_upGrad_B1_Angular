@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+    <h2>Hello Admin..!</h2>
+    <label for="">Name</label>
+    <input type="text" name="username" placeholder="Enter name"> <br><br>
+    <ul id="food">
+        <li>Biriyani</li>
+        <li>Chinese</li>
+        <li>Tandoori</li>
+    </ul>
+
+
+
+
+
+    <button id="btn1">Change Text</button>
+    <button id="btn2">Change HTML</button> <br><br>
+    <button id="btn3">Change Input Value for Name field</button> <br><br>
+    <button id="btn4">Add New Element in List using append</button>
+    <script>
+        $("#btn1").click(() => {
+            $("h2").text("Hello User..!")
+        })
+        $("#btn2").click(() => {
+            $("h2").html("<i>Hello User.....!</i>");
+        })
+        $("#btn3").click(() => {
+            $('input').val("Lucky")
+        })
+        $("#btn4").click(() => {
+            $('#food').append("<li>Veg</li>");
+        })        
+    </script>
+</body>
+</html>
