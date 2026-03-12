@@ -1,0 +1,14 @@
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.AssemblyInfoInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.AssemblyInfo.cs
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\bin\Debug\net10.0\Class_Assignment8.exe
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\bin\Debug\net10.0\Class_Assignment8.deps.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\bin\Debug\net10.0\Class_Assignment8.runtimeconfig.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\bin\Debug\net10.0\Class_Assignment8.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\bin\Debug\net10.0\Class_Assignment8.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\refint\Class_Assignment8.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\Class_Assignment8.genruntimeconfig.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment8\obj\Debug\net10.0\ref\Class_Assignment8.dll

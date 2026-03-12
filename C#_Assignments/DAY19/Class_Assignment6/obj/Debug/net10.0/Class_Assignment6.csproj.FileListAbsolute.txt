@@ -1,0 +1,14 @@
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\bin\Debug\net10.0\Class_Assignment6.exe
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\bin\Debug\net10.0\Class_Assignment6.deps.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\bin\Debug\net10.0\Class_Assignment6.runtimeconfig.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\bin\Debug\net10.0\Class_Assignment6.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\bin\Debug\net10.0\Class_Assignment6.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.AssemblyInfoInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.AssemblyInfo.cs
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\refint\Class_Assignment6.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\Class_Assignment6.genruntimeconfig.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY19\Class_Assignment6\obj\Debug\net10.0\ref\Class_Assignment6.dll
