@@ -1,0 +1,14 @@
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.exe
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.deps.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.runtimeconfig.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.AssemblyInfoInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.AssemblyInfo.cs
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\refint\ExceptionHandling_Assignment.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.genruntimeconfig.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY22\Exception_Handling\ExceptionHandling_Assignment\obj\Debug\net10.0\ref\ExceptionHandling_Assignment.dll

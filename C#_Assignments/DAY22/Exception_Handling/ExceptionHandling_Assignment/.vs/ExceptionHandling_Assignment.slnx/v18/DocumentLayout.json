@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2694FC8C-F2F1-4000-B0ED-C9EDF1CD516D}|ExceptionHandling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day22\\exception_handling\\exceptionhandling_assignment\\ass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694FC8C-F2F1-4000-B0ED-C9EDF1CD516D}|ExceptionHandling_Assignment.csproj|solutionrelative:ass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694FC8C-F2F1-4000-B0ED-C9EDF1CD516D}|ExceptionHandling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day22\\exception_handling\\exceptionhandling_assignment\\exceptionhandling_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2694FC8C-F2F1-4000-B0ED-C9EDF1CD516D}|ExceptionHandling_Assignment.csproj|solutionrelative:exceptionhandling_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694FC8C-F2F1-4000-B0ED-C9EDF1CD516D}|ExceptionHandling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day22\\exception_handling\\exceptionhandling_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694FC8C-F2F1-4000-B0ED-C9EDF1CD516D}|ExceptionHandling_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandling_Assignment",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\ExceptionHandling_Assignment.csproj",
+              "RelativeDocumentMoniker": "ExceptionHandling_Assignment.csproj",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\ExceptionHandling_Assignment.csproj",
+              "RelativeToolTip": "ExceptionHandling_Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T10:49:17.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ass2.cs",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\Ass2.cs",
+              "RelativeDocumentMoniker": "Ass2.cs",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\Ass2.cs",
+              "RelativeToolTip": "Ass2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:22:36.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY22\\Exception_Handling\\ExceptionHandling_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0kAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:39:35.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
