@@ -1,0 +1,14 @@
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\bin\Debug\net10.0\File_Handling_Assignment.exe
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\bin\Debug\net10.0\File_Handling_Assignment.deps.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\bin\Debug\net10.0\File_Handling_Assignment.runtimeconfig.json
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\bin\Debug\net10.0\File_Handling_Assignment.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\bin\Debug\net10.0\File_Handling_Assignment.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.AssemblyInfoInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.AssemblyInfo.cs
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\refint\File_Handling_Assignment.dll
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.pdb
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\File_Handling_Assignment.genruntimeconfig.cache
+C:\Users\sampu\OneDrive\Desktop\.Net_training\C#\Assignments\DAY24\File_Handling_Assignment\obj\Debug\net10.0\ref\File_Handling_Assignment.dll

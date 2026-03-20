@@ -1,0 +1,18 @@
+C# (C-Sharp) is a modern programming language developed by Microsoft.
+It is used to build web, desktop, mobile, and game applications.
+C# works on the .NET platform, which provides powerful libraries.
+It is an object-oriented language, meaning it uses classes and objects.
+C# is type-safe, helping reduce errors during development.
+It has simple and easy-to-learn syntax similar to C++ and Java.
+C# is widely used in industry and offers strong career opportunities.
+It is mainly used to build:
+
+Desktop applications
+
+Web applications
+
+Mobile apps
+
+Games
+
+

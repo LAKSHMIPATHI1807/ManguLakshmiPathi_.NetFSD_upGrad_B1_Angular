@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day24\\file_handling_assignment\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|solutionrelative:assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day24\\file_handling_assignment\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|solutionrelative:assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day24\\file_handling_assignment\\file_handling_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|solutionrelative:file_handling_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|c:\\users\\sampu\\onedrive\\desktop\\.net_training\\c#\\assignments\\day24\\file_handling_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5D772C-6654-4288-BA30-7CEBBFE31AA3}|File_Handling_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File_Handling_Assignment",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\File_Handling_Assignment.csproj",
+              "RelativeDocumentMoniker": "File_Handling_Assignment.csproj",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\File_Handling_Assignment.csproj",
+              "RelativeToolTip": "File_Handling_Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T12:12:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment3.cs",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\Assignment3.cs",
+              "RelativeDocumentMoniker": "Assignment3.cs",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\Assignment3.cs*",
+              "RelativeToolTip": "Assignment3.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwHUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:29:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment2.cs",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\Assignment2.cs",
+              "RelativeDocumentMoniker": "Assignment2.cs",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\Assignment2.cs",
+              "RelativeToolTip": "Assignment2.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:30:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\C#\\Assignments\\DAY24\\File_Handling_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:38:50.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
